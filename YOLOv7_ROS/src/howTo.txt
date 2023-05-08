@@ -1,5 +1,6 @@
 
 
 clone the repo and source the ros package.
+model can be downloaded from "https://github.com/WongKinYiu/yolov7". yolov7.pt is recommended.
 cd ~/catkin_ws/src/YOLOv7_ROS
 roslaunch objdetection detectorLaunch.launch 
