@@ -1,0 +1,5 @@
+
+
+clone the repo and source the ros package.
+cd ~/catkin_ws/src/YOLOv7_ROS
+roslaunch objdetection detectorLaunch.launch 
